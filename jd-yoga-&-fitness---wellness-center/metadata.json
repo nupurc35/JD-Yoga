@@ -1,0 +1,7 @@
+{
+  "name": "JD Yoga & Fitness - Wellness Center",
+  "description": "A premium wellness center website for JD Yoga & Fitness in Guwahati, Assam, offering yoga, weight loss, and professional fitness training.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
